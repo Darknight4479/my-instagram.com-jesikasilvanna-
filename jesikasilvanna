@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Jesika Sivanna Official Store</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #000000, #1a1a1a);
+    color: gold;
+    text-align: center;
+}
+.container {
+    padding: 30px;
+}
+h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.product-img {
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px gold;
+    margin: 20px 0;
+}
+.btn {
+    display: block;
+    width: 80%;
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+.whatsapp {
+    background: gold;
+    color: black;
+}
+.shopee {
+    background: transparent;
+    border: 2px solid gold;
+    color: gold;
+}
+.footer {
+    margin-top: 30px;
+    font-size: 12px;
+    opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Jesika Sivanna Official Store</h1>
+    <p>Luxury Collection • Premium Quality</p>
+
+    <img src="https://via.placeholder.com/250x250.png?text=Product+Photo" class="product-img">
+
+    <a href="https://wa.me/6282383919107" class="btn whatsapp">Order via WhatsApp</a>
+
+    <a href="https://skinbeautycar.com/m/login?codeNumber=044550" class="btn shopee">Shop on Shopee</a>
+
+    <div class="footer">
+        © 2026 Jesika Sivanna. All Rights Reserved.
+    </div>
+</div>
+
+</body>
+</html>
