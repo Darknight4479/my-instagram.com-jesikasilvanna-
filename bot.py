@@ -1,4 +1,4 @@
-notepad bot.py
+python bot.py
 from instagrapi import Client
 
 username = "ritt.aerina"
